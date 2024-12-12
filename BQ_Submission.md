@@ -66,7 +66,6 @@ $
 ---
 
 ### Q2: Hierarchical Clustering Using Max-Linkage
-\section*{Step 1: Initial Proximity Matrix}
 The initial proximity matrix is given as follows:
 
 $
